@@ -1,2 +1,2 @@
 # Beecrowd
-Códigos desenvolvidos durante as práticas de programação na plataforma Beecrowd (Antigo URI Judge)
+Codes developed during programming practice on the Beecrowd platform (formerly URI Judge).
